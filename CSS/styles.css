@@ -469,6 +469,10 @@ a {
     padding: 3rem;
 }
 
+.testimonial--visible-overflow {
+    overflow: visible;
+}
+
 .testimonial__image {
     position: relative;
 }
